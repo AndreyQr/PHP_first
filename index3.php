@@ -1,7 +1,7 @@
 <?php
 $today = date("Y");
 $parag = "Заголовок первого уровня";
-const TITLE = 'Попытка номер раз';
+const TITLE = 'Попытка номер два';
 ?>
 <!doctype html>
 <html lang="en">
